@@ -77,7 +77,7 @@ customer-tags.tld
         <attribute>
             <name>cacheControl</name>
             <required>false</required>
-            <rtexprvalue>1111</rtexprvalue>
+            <rtexprvalue>true</rtexprvalue>
             <type>java.lang.String</type>
         </attribute>
         <attribute>
