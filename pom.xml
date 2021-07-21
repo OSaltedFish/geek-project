@@ -13,6 +13,7 @@
 	<modules>
 		<module>01-week</module>
 		<module>02-week</module>
+		<module>03-week</module>
 	</modules>
 
 	<properties>
